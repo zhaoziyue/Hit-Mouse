@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BackGround" width="750" height="550" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1588bf5e0ad"/>
+	<e:Image source="bg_canvas_png" x="0" y="0"/>
+</e:Skin>

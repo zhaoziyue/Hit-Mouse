@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="helpGame" width="750" height="550" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="help_png" x="2" y="2"/>
+</e:Skin>
